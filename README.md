@@ -11,9 +11,12 @@
 <!-- <h3 align="left">💻 Source code to projects i've worked on </h3> -->
 
 <h3 align="left">👨‍💻 Projects i've worked on that are currently in production:</h3>
-<p></p>
-- kobo360 website - [https://www.kobo360.com/careers/](https://www.kobo360.com/careers/) 
-- 
+<ul>
+ <li> kobo360 website - https://www.kobo360.com/careers/</li>
+  <li> kosafe - https://safe.kobo360.com/</li>
+ <li> kobocare - https://care.control.kobo360.com/ </li>
+</ul>
+
 
  💬 Ask me about **React, HTML, Css, Scss, Next.js**
 
