@@ -15,6 +15,7 @@
  <li> kobo360 website - https://www.kobo360.com/careers/</li>
   <li> kosafe - https://safe.kobo360.com/</li>
  <li> kobocare - https://care.control.kobo360.com/ </li>
+ <li>Pyfasta - http://www.payfasta.com </li>
 </ul>
 
 
