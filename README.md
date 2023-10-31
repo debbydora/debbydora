@@ -10,7 +10,7 @@
 
 <!-- <h3 align="left">💻 Source code to projects i've worked on </h3> -->
 
-<h3 align="left">👨‍💻 Projects i've worked on that are currently in production:</h3>
+<h3 align="left">👨‍💻 Projects I've worked on that are currently in production:</h3>
 <ul>
  <li> kobo360 website - https://www.kobo360.com/careers/</li>
   <li> kosafe - https://safe.kobo360.com/</li>
@@ -18,12 +18,31 @@
  <li>Pyfasta - http://www.payfasta.com </li>
 </ul>
 
+<h2>Statistics 📈</h2>
 
- 💬 Ask me about **React, HTML, Css, Scss, Next.js**
+[![trophy](https://github-profile-trophy.vercel.app/?username=debbydora&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=debbydora&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debbydora&theme=dark)](https://git.io/streak-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=debbydora&langs_count=5&theme=tokyonight)]()
+
+![](https://komarev.com/ghpvc/?username=debbydora&color=green)
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=debbydora&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+ 💬 Ask me about **React, HTML, CSS, Scss, Next.js**
 
  📫 How to reach me **adaorahaladi@gmail.com **
 
- ⚡ Fun fact **i am an ardent fan of the paranormals**
+ ⚡ Fun fact **I am an ardent fan of the paranormals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
