@@ -18,18 +18,6 @@
  <li>Pyfasta - http://www.payfasta.com </li>
 </ul>
 
-<h2>Statistics 📈</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=debbydora&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=debbydora&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debbydora&theme=dark)](https://git.io/streak-stats)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=debbydora&langs_count=5&theme=tokyonight)]()
-
-![](https://komarev.com/ghpvc/?username=debbydora&color=green)
-<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
